@@ -1,4 +1,4 @@
-# 12 - vide  
+# Plugin jQuery - Vide  
 
 Présentation du plugin jQuery "Vide" (https://github.com/VodkaBears/Vide), licence MIT  
 
